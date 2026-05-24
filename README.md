@@ -19,14 +19,14 @@ Sistema mínimo de OAuth2 para verificação de usuários em bots Discord.
 No painel do Railway, vá em "Variables" e adicione:
 
 ```
-URL=https://seu-projeto.up.railway.app
+URL=https://site.railway.internal
 CLIENT_ID=1507126416834171030
 CLIENT_SECRET=SRX1w_QGU5pNUVQbUUKU4gT2G9HahYnCx
 ROLE=1484339341495894119
 GUILD_ID=1440862152796934208
 WEBHOOK_LOGS=https://discord.com/api/webhooks/1507891052701286482/-R62Yr7OD3YGbIoNjzVgZWuVkr8HcTYukCXb0JWwm8WSUHjRezajehxXkElpIwpqJjbC
 SERVER_INVITE=https://discord.gg/xeCc89yhbh
-BOT_TOKEN=SEU_TOKEN_DO_BOT
+BOT_TOKEN=MTUwNzEyNjQxNjgzNDE3MTAzMA.Gc-EWd.sqNGTuRSbhMuMsTr5v_jCmW3-KAl97okrxab_k
 ```
 
 **Importante:** A URL será fornecida pelo Railway após o deploy inicial.
